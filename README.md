@@ -1,2 +1,6 @@
 # Hacking-Security-E-Books-
-Hacking &amp; Security E-Books (Free Download) - Powered by D3m0nicw0lf
+Hacking & Security E-Books (Free Download) - Powered by  <font color="red">D3m0n!cw0lf</font> 
+
+# A collection of awesome books, resources and cool stuff about security.
+
+# If you want to contribute to this list (please do), send a pull request. All contributors will be recognized and appreciated.
